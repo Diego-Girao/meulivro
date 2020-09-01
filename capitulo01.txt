@@ -1,3 +1,5 @@
 
 
 Este é o primeiro Capítulo do meu livro.
+
+Neste livro nós vamos aprender a utilizar o git.
